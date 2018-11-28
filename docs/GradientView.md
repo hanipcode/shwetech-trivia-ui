@@ -1,0 +1,8 @@
+`GradientView` (component)
+==========================
+
+
+
+Props
+-----
+

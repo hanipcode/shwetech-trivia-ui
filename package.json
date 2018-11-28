@@ -1,0 +1,36 @@
+{
+  "name": "shwetech-trivia-ui",
+  "version": "1.0.0",
+  "description": "Ui for trivia app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react-native-keyboard-aware-scroll-view": "^0.7.2",
+    "react-native-linear-gradient": "^2.4.2",
+    "react-native-phone-input": "^0.2.1",
+    "react-native-size-matters": "^0.1.4",
+    "react-native-slider": "^0.11.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "react-docgen": "^2.21.0",
+    "react-docgen-markdown-renderer": "^1.1.0",
+    "react-docs-markdown": "^0.7.0"
+  },
+  "peerDependencies": {
+    "react": "^16.5.0",
+    "react-native": "^0.56.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanipcode/shwetech-trivia-ui.git"
+  },
+  "author": "Muhammad Hanif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanipcode/shwetech-trivia-ui/issues"
+  },
+  "homepage": "https://github.com/hanipcode/shwetech-trivia-ui#readme"
+}
